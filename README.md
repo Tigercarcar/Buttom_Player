@@ -1,2 +1,2 @@
 # Buttom_Player
-Use Arduino to make a player, you can control the previous song and the next song, adjust the volume and start and pause the music with buttons.
+Use Arduino to make a player, you can pause und start the music with black little buttom, next song mit blue buttom, previous song mit red buttom, volumeup mit black buttom and volumedown mit white buttom.
